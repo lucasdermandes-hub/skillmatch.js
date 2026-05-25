@@ -23,6 +23,12 @@ Extensões usadas no VS Code durante a realização do projeto:
 - Prettier.
 - Code Runner
 
+Ferramentas de Pesquisa:
+
+- Google
+- ChatGPT/Gimini
+
+
 Como a internet funciona?
 
 A internet funciona como uma ampla rede de computadores interligados. Quando um usuário digita um endereço eletrônico, o computador envia uma solicitação por meio de protocolos, como o HTTP/HTTPS, para localizar o servidor em que a página está armazenada, retornando as informações solicitadas para serem exibidas na tela.

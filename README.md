@@ -37,10 +37,16 @@ Diferença entre Var, Let e Const?
 No código, priorizei o uso de let e const. Utilizei const para variáveis que não têm seu valor alterado, como o objeto do candidato e a lista de vagas, e let para valores que podem ser modificados, como contadores e variáveis de repetição em loops. Evitei o uso de var, pois ele possui escopo de função e pode causar problemas relacionados ao hoisting, enquanto let e const respeitam o escopo de bloco, tornando o código mais seguro e organizado.
 
 
-lINK Trello:
+Link Trello:
 
  https://trello.com/invite/b/6a0b9db3b70807797cdc813c/ATTIeced9ac26d82c562b693feaf829703ff4FCBAD6C/skillmatch-js-simulador-de-compatibilidade-com-vaga-front-end-junior
 
-Link GITHUB PROJETO:
+Link GITHUB (PROJETO):
+
+https://github.com/lucasdermandes-hub/skillmatch.js
+
+Link vídeo rodando o projeto:
+
+https://youtu.be/DNNDxUUhkiM
 
 

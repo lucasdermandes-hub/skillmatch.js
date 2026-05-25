@@ -2,9 +2,10 @@
 
 Sobre o Projeto
 
-Este mini-projeto avaliativo. Tem como objetivo de rodar um script em JavaScript que simula um motor de triagem de currículos para um time de RH.
+Este mini projeto avaliativo tem como objetivo executar um script em JavaScript que simula um sistema de triagem de currículos utilizado por uma equipe de Recursos Humanos (RH).
 
-O sistema criado pega o perfil do candidato como habilidades e experiências e compara com 3 vagas em empresas que precisam de profissionais e calcula a porcentagem de compatibilidade, mostra o que falta estudar e da uma recomendação da melhor vaga que combina com o candidato.
+O sistema desenvolvido analisa o perfil do candidato, considerando suas habilidades e experiências, e realiza a comparação com três vagas disponíveis em empresas que buscam profissionais da área. Com base nessa análise, o sistema calcula a porcentagem de compatibilidade entre o candidato e cada vaga, identifica quais competências ainda precisam ser desenvolvidas e apresenta uma recomendação da vaga mais adequada ao perfil do candidato.
+
 
 Como Executar o Código:
 
@@ -34,5 +35,12 @@ Diferença entre Var, Let e Const
 Diferença entre Var, Let e Const?
 
 No código, priorizei o uso de let e const. Utilizei const para variáveis que não têm seu valor alterado, como o objeto do candidato e a lista de vagas, e let para valores que podem ser modificados, como contadores e variáveis de repetição em loops. Evitei o uso de var, pois ele possui escopo de função e pode causar problemas relacionados ao hoisting, enquanto let e const respeitam o escopo de bloco, tornando o código mais seguro e organizado.
+
+
+lINK Trello:
+
+ https://trello.com/invite/b/6a0b9db3b70807797cdc813c/ATTIeced9ac26d82c562b693feaf829703ff4FCBAD6C/skillmatch-js-simulador-de-compatibilidade-com-vaga-front-end-junior
+
+Link GITHUB PROJETO:
 
 
